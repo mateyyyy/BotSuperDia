@@ -15,7 +15,7 @@ Características
 Empezar
 -------
 
-1.  Clona el repositorio: `git clone https://github.com/your_username/DIA-BOT.git](https://github.com/mateyyyy/BotSuperDia.git`
+1.  Clona el repositorio: `git clone https://github.com/mateyyyy/BotSuperDia.git`
 2.  Instala las dependencias: `pip install -r requirements.txt`
 3.  Configura las credenciales de la API de Twitter en `twitapi.py`.
 4.  Configura las credenciales de la Base de datos en `dbconnect.py`.
