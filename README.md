@@ -1,4 +1,4 @@
-DIA BOT
+![image](https://github.com/mateyyyy/BotSuperDia/assets/65136286/6ceb1c00-daf5-4aaa-b92a-6b76274759a9)DIA BOT
 =======
 
 DIA BOT es un bot de Twitter que proporciona informes diarios sobre la variacion en los precios de los productos del supermercado Día.
@@ -19,3 +19,8 @@ Empezar
 2.  Instala las dependencias: `pip install -r requirements.txt`
 3.  Configura las credenciales de la API de Twitter en `twitapi.py`.
 4.  Configura las credenciales de la Base de datos en `dbconnect.py`.
+
+
+EJEMPLO
+-------
+![image](https://github.com/mateyyyy/BotSuperDia/assets/65136286/972acba7-12f9-462c-9b1d-b1a51b34f401)
