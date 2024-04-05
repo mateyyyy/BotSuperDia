@@ -1,4 +1,4 @@
-![image](https://github.com/mateyyyy/BotSuperDia/assets/65136286/6ceb1c00-daf5-4aaa-b92a-6b76274759a9)DIA BOT
+DIA BOT
 =======
 
 DIA BOT es un bot de Twitter que proporciona informes diarios sobre la variacion en los precios de los productos del supermercado Día.
