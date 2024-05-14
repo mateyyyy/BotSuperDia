@@ -7,13 +7,12 @@ Realiza un scrapping sobre la url de cada producto Dia retirando el elemento que
 Características
 ---------------
 
-*   Analiza aproximadamente 2050 productos diariamente.
+*   Analiza 82 productos diariamente.
 *   Utiliza una base de datos local como respaldo.
 *   Se integra con la API de Twitter para twittear.
-*   Publica tweets sobre los 3 productos con la mayor variación de precio en el mes y los 3 con la menor variación.
-
-Empezar
--------
+  
+Instalacion
+-----------
 
 1.  Clona el repositorio: `git clone https://github.com/mateyyyy/BotSuperDia.git`
 2.  Instala las dependencias: `pip install -r requirements.txt`
